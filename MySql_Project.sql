@@ -35,7 +35,7 @@ VALUES
 			
 CREATE TABLE rooms (
 	id INT PRIMARY KEY AUTO_INCREMENT,
-	`type` VARCHAR(30)
+	`type` VARCHAR(35)
 );
 
 INSERT INTO rooms(`type`) VALUES('apartment'), ('single room');
