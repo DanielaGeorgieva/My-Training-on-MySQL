@@ -21,7 +21,7 @@ CREATE TABLE employees (
 
 INSERT INTO `employees` (`first_name`,`last_name`, `job_title`,`department_id`,`salary`, `hire_date`)
 VALUES
-    ('John', 'Smith', 'Manager',1, 900.00, '2023-07-01 09:00:00'),
+    
     ('John', 'Johnson', 'Customer Service',2, 880.00, '2022-08-02 10:30:00'),
     ('Smith', 'Johnson', 'Porter', 4, 1100.00, '2023-09-03 11:15:00'),
     ('Peter', 'Petrov', 'Front Desk Clerk', 1, 1100.00, '2021-10-04 14:00:00'),
